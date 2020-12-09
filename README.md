@@ -1,4 +1,4 @@
-<h2>Hi, welcome in my GitHub!</h2>
+<h2>Hi, welcome on my GitHub!</h2>
 
 🔭 I’m currently working on my Discord bot made with Python.
 
