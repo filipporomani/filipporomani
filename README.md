@@ -1,6 +1,6 @@
 <h2>Hi, welcome on my GitHub!</h2>
 
-🔭 I’m currently working on my Discord bot made with Python.
+🔭 I’m currently looking for something to do. Hire me!
 
 📫 How to reach me:
 <ul>
