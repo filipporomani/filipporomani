@@ -1,12 +1,13 @@
 <h2>Hello!</h2>
 
-🔭 I’m currently looking for something to do. Hire me!
+🔭 I’m currently working hard to build a business 🙂
 
 📫 How to reach me:
 <ul>
+    <li><a href="https://filipporomani.it">Through my website (filipporomani.it)</a></li>
     <li><a href="mailto:mail@filipporomani.it">Mail me (mail@filipporomani.it)</a></li>
-    <li>DM me on Discord, add me to your friends <strong>filipporomani#7568</strong></li>
-    <li><a href="https://top.gg/bot/780697130909302805" target=new >Have a look to my bot</a> on top.gg</li>
+    <li>DM me on Discord: add me to your friends - <strong>filipporomani#7568</strong></li>
+</ul>
 
 
 # My Most Used Languages List
