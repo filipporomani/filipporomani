@@ -1,6 +1,6 @@
 <h2>Hello!</h2>
 
-🔭 I’m currently working hard to build a business 🙂
+🔭 I’m currently working hard to build something 🙂
 
 📫 How to reach me:
 <ul>
