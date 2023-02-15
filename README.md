@@ -9,6 +9,8 @@
     <li>DM me on Discord: add me to your friends - <strong>filipporomani#7568</strong></li>
 </ul>
 
+My PGP public key is available [here](public_key.asc)
+
 
 # My Most Used Languages List
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipporomani&text_color=daf7dc&title_color=ffffff&bg_color=8e2de2,8e2de2,4a00e0)
