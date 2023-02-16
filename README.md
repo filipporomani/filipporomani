@@ -9,7 +9,7 @@
     <li>DM me on Discord: add me to your friends - <strong>filipporomani#7568</strong></li>
 </ul>
 
-My PGP public key is available [here](public_key.asc)
+My PGP public key is available [here](public_key.asc). You may ask me to sign anything I send you whenever you want.
 
 
 # My Most Used Languages List
