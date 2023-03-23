@@ -7,7 +7,7 @@
   
 - 👯 I’m looking to collaborate on **open-source libraries**  
   
-- 👨‍💻 All of my projects are available at [filipporomani.it](filipporomani.it)  
+- 👨‍💻 All of my projects are available at [filipporomani.it](https://filipporomani.it)  
   
 - 📫 How to reach me **mail@filipporomani.it**  
   
