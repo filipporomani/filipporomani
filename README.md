@@ -13,7 +13,6 @@
   
 - 📄 Know about my experiences [https://filipporomani.it/cv.html](https://filipporomani.it/cv.html)  
   
-- ⚡ Fun fact **I think a degree is not as important as past projects.**  
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
