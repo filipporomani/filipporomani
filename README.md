@@ -29,9 +29,6 @@
 - ESP32
 - Deeds
 
-<h3 align="left">Spotifyyyy</h3>  
-<p>&nbsp;<img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=9ih0tdont4op6y5s5rdd1wt29&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true" alt="filipporomani" /></p>  
-
 
   <h3 align="left">Some stats:</h3>  
 
