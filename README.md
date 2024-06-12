@@ -30,7 +30,7 @@
 - Deeds
 
 
-  <h3 align="left">Some stats:</h3>  
+<h3 align="left">Some stats:</h3>  
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=filipporomani&show_icons=true&locale=en" alt="filipporomani" /></p>  
   
