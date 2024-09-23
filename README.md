@@ -1,13 +1,13 @@
 
-<h3 align="center">I’m a 17 y/o developer & hardware maker based in Italy.</h3>  
+<h3 align="center">18 y/o sw & hw developer based in Italy.</h3>  
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=filipporomani&label=Profile%20views&color=0e75b6&style=flat" alt="filipporomani" /> </p>  
   
-- 🔭 I’m currently working on a **security system**, using C++, ESP32 and Python.
+- 🔭 I’m currently working on various embedded systems using C++, ESP32 and Python.
   
 - 👯 I’m looking to collaborate on **open-source libraries** and **any other project** 
     
-- 📫 Reach me out via email at **mail@filipporomani.it**  
+- 📫 Reach me out via email at **filippo@romani.cc**  
     
   
 <h3 align="left">Connect with me:</h3>  
