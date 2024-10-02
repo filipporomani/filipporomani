@@ -3,7 +3,7 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=filipporomani&label=Profile%20views&color=0e75b6&style=flat" alt="filipporomani" /> </p>  
   
-- 🔭 I’m currently working on various embedded systems using C++, ESP32 and Python.
+- 🔭 I’m currently working on various embedded systems using C++, Espressif MCUs. I also develop APIs & backend software using Python.
   
 - 👯 I’m looking to collaborate on **open-source libraries** and **any other project** 
     
