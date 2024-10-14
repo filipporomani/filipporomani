@@ -1,4 +1,4 @@
-<h3 align="center">18 y/o sw & hw developer based in Italy.</h3>  
+<h3 align="center">18 y/o sw & hw developer based in Italy. Currently studying electronics in high school.</h3>  
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=filipporomani&label=Profile%20views&color=0e75b6&style=flat" alt="filipporomani" /> </p>  
   
