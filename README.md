@@ -6,7 +6,7 @@
   
 - 👯 I’m looking to collaborate on **open-source libraries** and **any other embedded or software project** 
     
-- 📫 Reach me out via email at **filippo@romani.cc**  
+- 📫 Reach me out via email at **filippo@romani.cc** or join [my Discord server](https://discord.gg/cNwtffeFbj)
     
   
 <h3 align="left">Connect with me:</h3>  
